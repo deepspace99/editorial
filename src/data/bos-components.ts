@@ -89,7 +89,7 @@ export const componentsByNetworkId: Record<NetworkId, NetworkComponents | undefi
     bosDirectory: 'onboarder.near/widget/BOSDirectory',
     componentSummary: 'near/widget/ComponentSummary',
     componentsPage: 'near/widget/ComponentsPage',
-    default: 'openwebbuild.near/widget/Page.Explore',
+    default: 'achildhoodhero.near/widget/nearweek.editorial.bos',
     editorComponentSearch: 'mob.near/widget/Editor.ComponentSearch',
     horizon: {
       homePage: 'nearhorizon.near/widget/HomePage',
