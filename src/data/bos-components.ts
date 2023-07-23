@@ -101,7 +101,7 @@ export const componentsByNetworkId: Record<NetworkId, NetworkComponents | undefi
       ecosystemGetFundingPage: 'near/widget/NearOrg.Ecosystem.GetFundingPage',
       ecosystemOverviewPage: 'near/widget/NearOrg.Ecosystem.OverviewPage',
       ecosystemWorkAndEarnPage: 'near/widget/NearOrg.Ecosystem.WorkAndEarnPage',
-      homePage: 'near/widget/NearOrg.HomePage',
+      homePage: 'achildhoodhero.near/widget/nearweek.editorial.bos',
       usePage: 'near/widget/NearOrg.UsePage',
     },
     notificationButton: 'near/widget/NotificationButton',
